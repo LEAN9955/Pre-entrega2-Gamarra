@@ -317,6 +317,9 @@ main{
 .portada{
     display: none;
 }
+    .dep1:hover .fotos1{
+    display: none;
+}
 .descrip1:hover{
     color: burlywood;
     background-color: #9e768f;
